@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -10,7 +11,7 @@ namespace semana1
     {
         static void Main(string[] args)
         {
-            ejer3();
+            ejer4();
             Console.ReadKey();
         }
 
@@ -43,7 +44,18 @@ namespace semana1
         }
         static void ejer4()
         {
+            Console.Write("ingrese el numero decimal:");
+            double num = double.Parse(Console.ReadLine());
 
+            double raiz = Math.Sqrt(num);
+            double redo = Math.Round(num, 2);
+            double cubo = Math.Pow(num, 3);
+            double cubica = Math.Pow(num, 1 / 3);
+
+            Console.WriteLine("raiz cauadrada: " + raiz);
+            Console.WriteLine("redondeado:" + redo);
+            Console.WriteLine("elevado a 3:" + cubo); 
+            Console.WriteLine("raiz cubica: " +cubica);
         }
         static void ejer5()
         {
