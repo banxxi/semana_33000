@@ -6,3 +6,11 @@ C:\Users\UPN\Desktop\capibara\fundamentos de algoritmo\semana1\obj\Debug\semana1
 C:\Users\UPN\Desktop\capibara\fundamentos de algoritmo\semana1\obj\Debug\semana1.exe
 C:\Users\UPN\Desktop\capibara\fundamentos de algoritmo\semana1\obj\Debug\semana1.pdb
 C:\Users\UPN\Desktop\capibara\fundamentos de algoritmo\semana1\obj\Debug\semana1.exe.config
+C:\Users\UPN\Desktop\SEMANA-4\semana_33000\semana1\bin\Debug\semana1.exe.config
+C:\Users\UPN\Desktop\SEMANA-4\semana_33000\semana1\bin\Debug\semana1.exe
+C:\Users\UPN\Desktop\SEMANA-4\semana_33000\semana1\bin\Debug\semana1.pdb
+C:\Users\UPN\Desktop\SEMANA-4\semana_33000\semana1\obj\Debug\semana1.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\SEMANA-4\semana_33000\semana1\obj\Debug\semana1.exe.config
+C:\Users\UPN\Desktop\SEMANA-4\semana_33000\semana1\obj\Debug\semana1.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\SEMANA-4\semana_33000\semana1\obj\Debug\semana1.exe
+C:\Users\UPN\Desktop\SEMANA-4\semana_33000\semana1\obj\Debug\semana1.pdb
