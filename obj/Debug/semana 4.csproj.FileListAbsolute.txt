@@ -1,0 +1,8 @@
+C:\Users\UPN\Desktop\SEMANA 5 UWU\semana 4\semana 4\obj\Debug\semana 4.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\SEMANA 5 UWU\semana 4\semana 4\obj\Debug\semana 4.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\SEMANA 5 UWU\semana 4\semana 4\bin\Debug\semana 4.exe.config
+C:\Users\UPN\Desktop\SEMANA 5 UWU\semana 4\semana 4\bin\Debug\semana 4.exe
+C:\Users\UPN\Desktop\SEMANA 5 UWU\semana 4\semana 4\bin\Debug\semana 4.pdb
+C:\Users\UPN\Desktop\SEMANA 5 UWU\semana 4\semana 4\obj\Debug\semana 4.exe
+C:\Users\UPN\Desktop\SEMANA 5 UWU\semana 4\semana 4\obj\Debug\semana 4.pdb
+C:\Users\UPN\Desktop\SEMANA 5 UWU\semana 4\semana 4\obj\Debug\semana 4.exe.config
